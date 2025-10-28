@@ -8,7 +8,9 @@ cd new-project
 ```
 
 2. Create new branch for development
+```bash
 git checkout -b feature/<feature-name>
+```
 
 3. Commit and push the changes:
 ```bash
